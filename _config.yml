@@ -1,22 +1,22 @@
-title: 迪哥精准营养
-description: 精准营养、健康管理、功能医学知识库
-url: "https://dige-nutrition.github.io"  # 替换为你的域名
-baseurl: ""
+title: 迪哥精准营养 | Dige Precision Nutrition
+description: 精准营养、健康管理、功能医学知识库 | Precision Nutrition, Health Management, Functional Medicine Knowledge Base
+url: "https://dige2020.github.io"
+baseurl: "/dige-precision-nutrition"
 
 # 作者信息
 author:
-  name: 迪哥
+  name: 迪哥 | Dige
   email: example@email.com
-  bio: 精准营养导师，《精准营养：重新定义的健康科学》作者
+  bio: 精准营养导师，《精准营养：重新定义的健康科学》作者 | Precision Nutrition Mentor, Author of "Precision Nutrition: A New Perspective on Health Science"
   links:
-    - label: 抖音
+    - label: 抖音 | Douyin
       url: "https://douyin.com"
-    - label: 微信
+    - label: 微信 | WeChat
       url: "#"
 
 # Jekyll配置
 markdown: kramdown
-permalink: /:title/
+permalink: /posts/:title/
 
 # 分页
 paginate: 10
@@ -26,7 +26,7 @@ paginate_path: "/page:num/"
 collections:
   posts:
     output: true
-    permalink: /:title/
+    permalink: /posts/:title/
 
 # 主题（可选）
 # theme: minima
@@ -41,17 +41,19 @@ bing_site_verification:
 
 # 社交链接（可选）
 social:
-  name: 迪哥精准营养
+  name: 迪哥精准营养 | Dige Precision Nutrition
   links:
     - https://douyin.com
 
 # 导航菜单
 navigation:
-  - title: 首页
+  - title: 首页 | Home
     url: /
-  - title: 关于
+  - title: 关于 | About
     url: /about
-  - title: 文章
-    url: /articles
-  - title: 联系我
+  - title: 文章 | Articles
+    url: /posts
+  - title: English
+    url: /en
+  - title: 联系我 | Contact
     url: /contact

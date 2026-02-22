@@ -4,6 +4,7 @@ title: 必需氨基酸EAA：为什么补充蛋白质不够
 date: 2026-01-01
 categories: [营养学, EAA, 氨基酸]
 tags: [EAA, 必需氨基酸, 蛋白质, 营养]
+lang: zh
 ---
 
 # 必需氨基酸EAA：为什么补充蛋白质不够
