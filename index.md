@@ -39,23 +39,15 @@ title: 首页
     <ul>
         <li><a href="/dige-precision-nutrition/tags/精准营养/">精准营养</a></li>
         <li><a href="/dige-precision-nutrition/tags/功能医学/">功能医学</a></li>
-        <li><a href="/dige-precision-nutrition/tags/EAA/">EAA（必需氨基酸）</a></li>
+        <li><a href="/dige-precision-nutrition/tags/EAA/">EAA</a></li>
         <li><a href="/dige-precision-nutrition/tags/肠道健康/">肠道健康</a></li>
         <li><a href="/dige-precision-nutrition/tags/代谢健康/">代谢健康</a></li>
         <li><a href="/dige-precision-nutrition/tags/DNA甲基化/">DNA甲基化</a></li>
-        <li><a href="/dige-precision-nutrition/tags/表观遗传学/">表观遗传学</a></li>
     </ul>
 </section>
 
 <section class="contact">
-    <h2>中英双语</h2>
-    <ul>
-        <li><a href="/dige-precision-nutrition/en/">English Version</a></li>
-    </ul>
-</section>
-
-<section class="contact">
-    <h2>联系我</h2>
+    <h2>关注我们</h2>
     <ul>
         <li>抖音：JK171613（迪哥精准营养）</li>
         <li>微信：联系请注明来意</li>
